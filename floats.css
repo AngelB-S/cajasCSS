@@ -9,20 +9,20 @@
 }
 .wrapper{
     background-color: paleturquoise;
+    display: flex; /*hereda a los hijos la flexibilidad
+    haciendo que se creen "columnas*/
+    
+    /*flex-direction: row-reverse; para hacer que se invierta el flex*/
 }
 .menu{
     background-color: brown;
     width: 30%;
-    float: left;
-    height: 50px;
 }
 .content{
     background-color: beige;
     width: 70%;
-    float: left;
 }
 .footer{
-    background-color: pink;
-    clear: both; /*hace que el float no se le mueva*/
+    background-color: pink; 
 }
 

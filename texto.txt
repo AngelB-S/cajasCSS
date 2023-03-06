@@ -1,0 +1,8 @@
+code . (abre el visual en la ruta en la que está)
+git help branch (abre la documentacion de las ramas)
+git branch -M main (-m o -M se usa para reconombrar una rama; git branch -m [ramaVieja] rama nueva.
+git push -u add origin main (la u solo se usa solo la primera vez)
+
+
+
+elementos de bloque dejan modificar la forma del borde y el color de fondo.
