@@ -1,0 +1,28 @@
+.container{
+    background-color: orange;
+    max-width: 1200px; 
+    margin: 0 auto;
+}
+.header{
+    background-color: purple;
+    height: 60px;
+}
+.wrapper{
+    background-color: paleturquoise;
+}
+.menu{
+    background-color: brown;
+    width: 30%;
+    float: left;
+    height: 50px;
+}
+.content{
+    background-color: beige;
+    width: 70%;
+    float: left;
+}
+.footer{
+    background-color: pink;
+    clear: both; /*hace que el float no se le mueva*/
+}
+
